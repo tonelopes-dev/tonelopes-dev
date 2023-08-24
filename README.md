@@ -39,9 +39,9 @@ Nadador 🏊‍♂️, amante dos golfinhos 🐬 e **Desenvolvedor de Software F
 ![Figma](https://img.shields.io/badge/Figma-9400D3?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonelopes&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tonelopes" /></p>
+![Top Languagens](https://github-readme-stats.vercel.app/api/top-langs/?username=tonelopes-dev&theme=tokyonight&custom_title=Top%20%Línguagens)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ToneLopes&show_icons=true&locale=en&theme=tokyonight" alt="ToneLopes" /></p>
+
 
 
 <!-- Continue adicionando os ícones correspondentes às suas habilidades técnicas aqui -->
