@@ -6,7 +6,7 @@ Nadador 🏊‍♂️, amante dos golfinhos 🐬 e **Desenvolvedor de Software F
 - 🔭 Atualmente estou em busca de oportunidades de trabalho.
 - 🧠 Especialista em Back-end com Javascript (Node.js) 🧠 e Mobile com React Native (Expo) 🚀.
 - 💪 Forte em Raciocínio Lógico 🧮, Comunicação 🗣️ e Organização 🗃️. 👥 Adoro Trabalhar em Equipe! 👥
-- 🗳️ Experiências incluem criação de Sites e E-commerces com Elementor/Wordpress, agência de Marketing político, Freelancer em Edição de Vídeo e Criação de Motion Flyers para Redes Sociais.
+- 🗳️ Experiências incluem criação de Sites e E-commerces.
 
 ## 🚀 Vamos Conectar!
 
