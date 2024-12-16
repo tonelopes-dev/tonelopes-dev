@@ -1,16 +1,11 @@
-## 🏄🏼‍♂️ Olá, eu sou o Tone Lopes! 
+## Hi! I'm Tone Lopes! 
 
-- 🔭 Atualmente estou em busca de oportunidades de trabalho.
-- 🗳️ Experiências incluem criação de Sites e E-commerces.
-
-## 🚀 Vamos Conectar!
-
-### 📫 Como entrar em contato comigo:
+### 📫 Contacts:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tonelopesm/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tone-lopes-frontend)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( tonelops.dev@gmail.com)
 
-### 🧑‍💻 Habilidades Técnicas:
+### 🧑‍💻 Technical Skills:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
@@ -18,7 +13,7 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/ToneLopes)
 
-### 🛠️ Tecnologias e Ferramentas:
+### 🛠️ Techs and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
