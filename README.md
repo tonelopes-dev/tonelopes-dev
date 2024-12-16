@@ -1,11 +1,6 @@
 ## 🏄🏼‍♂️ Olá, eu sou o Tone Lopes! 
 
-### 💻 Sobre Mim
-Nadador 🏊‍♂️, amante dos golfinhos 🐬 e **Desenvolvedor de Software Fullstack Mobile desde 2023📲.**
-
 - 🔭 Atualmente estou em busca de oportunidades de trabalho.
-- 🧠 Especialista em Back-end com Javascript (Node.js) 🧠 e Mobile com React Native (Expo) 🚀.
-- 💪 Forte em Raciocínio Lógico 🧮, Comunicação 🗣️ e Organização 🗃️. 👥 Adoro Trabalhar em Equipe! 👥
 - 🗳️ Experiências incluem criação de Sites e E-commerces.
 
 ## 🚀 Vamos Conectar!
